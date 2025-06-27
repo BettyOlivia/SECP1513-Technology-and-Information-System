@@ -42,7 +42,7 @@ This course introduces students to the fundamentals of Information Systems and T
 
 ### 🎨 Design Thinking Project
 - **[Design Thinking Report](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Desigh%20Thinking%20Project%20-%20Personalised%20Study%20App%20(SmartEdu)%20Group%205.pdf)**
-- **[Design Thinking Slide](xxx)**  
+- **[Design Thinking Slide](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Design%20Thinking-%20Personalised%20Study%20App%20(Smart%20Edu).pdf)**  
   📝 *Reflection:* I learned how to apply the Design Thinking process to solve educational problems through empathizing, defining, ideating, prototyping, and testing. Using Figma helped me understand user interface design and usability principles.  
   
 
