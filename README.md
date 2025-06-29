@@ -38,11 +38,11 @@ This course introduces students to the fundamentals of Information Systems and T
 ### 🧪 PC Assemble (Jigsaw)
 - **[Expert Group Presentation Notes : Ports & Connectors](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Jigsaw%20Activity%20-Group%205%20Ports%20%26%20Connectors.pdf)**  
 - **[Jigsaw Group Summary (Chapter 2 : Hardware)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Jigsaw%20Group%20Worksheet%20-%20Chapter%202%20Hardware.pdf)**
-
+- **[Open Ended Questions (Chapter 3 : Software )](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Chapter%203%20-%20Open%20Ended%20Questions.pdf)** 
 
 ### 🎨 Design Thinking Project
 - **[Design Thinking Report](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Desigh%20Thinking%20Project%20-%20Personalised%20Study%20App%20(SmartEdu)%20Group%205.pdf)**
-- **[Design Thinking Slide](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Design%20Thinking-%20Personalised%20Study%20App%20(Smart%20Edu).pdf)**  
+- **[Design Thinking Slide](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Design%20Thinking-%20Personalised%20Study%20App%20(Smart%20Edu)-1.pdf)**  
   📝 *Reflection:* I learned how to apply the Design Thinking process to solve educational problems through empathizing, defining, ideating, prototyping, and testing. Using Figma helped me understand user interface design and usability principles.  
   
 
