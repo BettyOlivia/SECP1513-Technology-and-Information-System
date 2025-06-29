@@ -31,7 +31,7 @@ This course introduces students to the fundamentals of Information Systems and T
 - **[Assignment 3 (Powerpoint Slides: Surviving IT Burnout Strategies for WLB in Tech)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industrial%20Talk%203%20Surviving%20IT%20Burnout%20Strategies%20for%20WLB%20in%20Tech.pdf)** <br>
   📝 *Reflection:* Through my research and presentation, I realized the importance of maintaining a healthy work-life balance, especially in the ICT industry, where professionals are more susceptible to burnout. Understanding this has made me more mindful of mental wellness in tech careers.
 
-- **[Assignment 4 (Academic Writing: Generative AI in ICT - Transforming The Future of Innovation)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industry%20Talk%204%20Academic%20Writng%20(Generative%20AI%20in%20ICT%20-%20Transforming%20The%20Future%20of%20Innovation.pdf))**  <br>
+- **[Assignment 4 (Academic Writing: Generative AI in ICT - Transforming The Future of Innovation)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industry%20Talk%204%20Academic%20Writng%20(Generative%20AI%20in%20ICT%20-%20Transforming%20The%20Future%20of%20Innovation).pdf)**  <br>
   📝 *Reflection:* This talk broadened my perspective on the future of Generative AI. I learned that while AI will transform many aspects of the world, it will not completely replace humans. Human insight, ethics, and creativity remain essential alongside technological advancement.  
   
 ### 🧪 PC Assemble (Jigsaw)
