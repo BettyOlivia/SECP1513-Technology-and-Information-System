@@ -1,7 +1,7 @@
 # SECP1513-Technology-and-Information-System
 
 ## Course Overview  <br> 
-This course introduces students to the fundamentals of Information Systems and Technology, covering hardware, software, networks, and communications. It emphasizes practical skills through hands-on labs involving PC installation and productivity tools. Industry visits and talks provide real-world exposure and connect students with professionals. Additionally, students will explore IT career requirements and job specifications to prepare for future opportunities.
+This course introduces students to the fundamentals of Information Systems and Technology, covering hardware, software, networks, and communications.Additionally, students will explore IT career requirements and job specifications to prepare for future opportunities.
 
 ## Course Lecturer
 **Name:** Dr. Noor Hidayah Zakaria  
@@ -25,14 +25,13 @@ This course introduces students to the fundamentals of Information Systems and T
   
 
 - **[Assignment 2 (Reflection: University vs Indsutry What Skills Really Matter)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industry%20Talk%202%20Reflection%20University%20vs%20Indsutry%20What%20Skills%20Really%20Matter.pdf)** <br>
+  📝 *Reflection:* I learned that while earning a degree is a fundamental step toward entering the industry, developing soft skills such as communication, teamwork, and adaptability is equally important. A balance between technical and interpersonal skills is critical for career growth.
+  
+
+- **[Assignment 3 (Powerpoint Slides: Surviving IT Burnout Strategies for WLB in Tech)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industrial%20Talk%203%20Surviving%20IT%20Burnout%20Strategies%20for%20WLB%20in%20Tech.pdf)** <br>
   📝 *Reflection:* Through my research and presentation, I realized the importance of maintaining a healthy work-life balance, especially in the ICT industry, where professionals are more susceptible to burnout. Understanding this has made me more mindful of mental wellness in tech careers.
-  
 
-- **[Assignment 3 (Powerpoint Slides:Surviving IT Burnout Strategies for WLB in Tech)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industrial%20Talk%203%20Surviving%20IT%20Burnout%20Strategies%20for%20WLB%20in%20Tech.pdf)** <br>
-  📝 *Reflection:* This helped me understand the importance of structured documentation and citing real-world data.  
-  
-
-- **[Assignment 4 (Academic Writing:Generative AI in ICT - Transforming The Future of Innovation )](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industry%20Talk%204%20Academic%20Writng%20(Generative%20AI%20in%20ICT%20-%20Transforming%20The%20Future%20of%20Innovation.pdf))**  <br>
+- **[Assignment 4 (Academic Writing: Generative AI in ICT - Transforming The Future of Innovation)](https://github.com/BettyOlivia/SECP1513-Technology-and-Information-System/blob/main/Industry%20Talk%204%20Academic%20Writng%20(Generative%20AI%20in%20ICT%20-%20Transforming%20The%20Future%20of%20Innovation.pdf))**  <br>
   📝 *Reflection:* This talk broadened my perspective on the future of Generative AI. I learned that while AI will transform many aspects of the world, it will not completely replace humans. Human insight, ethics, and creativity remain essential alongside technological advancement.  
   
 ### 🧪 PC Assemble (Jigsaw)
